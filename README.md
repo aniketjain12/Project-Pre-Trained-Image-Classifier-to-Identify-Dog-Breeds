@@ -1,4 +1,4 @@
-### Pre Trained Image Classifier to Identify Dog Breeds
+# Pre Trained Image Classifier to Identify Dog Breeds
 Determine which CNN architecture model works best at classifying images of dogs and their breeds.
 
 ## Dependencies
