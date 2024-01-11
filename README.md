@@ -12,7 +12,7 @@ Some people are planning on registering pets that aren’t actual dogs.
 
 You need to use an already developed Python classifier to make sure the participants are dogs.
 
-** Note, you DO NOT need to create the classifier. It will be provided to you. You will need to apply the Python tools you just learned to USE the classifier. **
+**Note, you DO NOT need to create the classifier. It will be provided to you. You will need to apply the Python tools you just learned to USE the classifier.**
 
 ## Dependencies
 
