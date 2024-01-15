@@ -36,4 +36,4 @@ Each directory has a requirements.txt describing the minimal dependencies requir
 
 To install these dependencies with pip, you can issue pip3 install -r requirements.txt.
 
-*** Note: Use command "python check_images.py" in terminal after installing requirements.txt fill for running project. *** 
+***Note: Use command "python check_images.py" in terminal after installing requirements.txt fill to run the project.*** 
